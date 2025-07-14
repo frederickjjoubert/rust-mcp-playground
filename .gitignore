@@ -1,6 +1,8 @@
 # Custom Git Ignores
 
 .DS_Store
+references/
+**/.env
 
 # Rust Git Ignores
 
